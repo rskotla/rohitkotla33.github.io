@@ -4,141 +4,162 @@ title: About Me
 permalink: /about/
 ---
 
-<div class="profile-photos">
-  <img src="https://avatars.githubusercontent.com/u/rskotla" alt="Rohit Kotla - GitHub Profile" class="profile-photo github-photo" width="150" height="150" style="border-radius: 50%; margin: 10px;">
-  <img src="https://media.licdn.com/dms/image/v2/D5635AQHQXGPi4HZlfw/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1724917234588" alt="Rohit Kotla - LinkedIn Profile" class="profile-photo linkedin-photo" width="150" height="150" style="border-radius: 50%; margin: 10px;">
-</div>
+![Rohit Kotla - GitHub Profile](https://avatars.githubusercontent.com/u/rskotla) ![Rohit Kotla - LinkedIn Profile](https://camo.githubusercontent.com/fe391067/9a0cb0f5)
 
 # About Rohit Kotla
 
 ## 👨‍💻 Professional Summary
 
-I am a passionate and experienced Software Developer with over 5 years of expertise in modern web technologies, cloud computing, and enterprise system architecture. Currently based in Toronto, Canada, I specialize in designing and building scalable, efficient, and user-centric applications that drive business value and solve complex real-world challenges.
+I am an **AI & LLM-Focused Cloud DevOps Architect** specializing in GenAI, Azure OpenAI, and MLOps with extensive expertise in cloud computing, enterprise system architecture, and artificial intelligence solutions. Currently based in **Noida, Uttar Pradesh, India**, I design and implement scalable, intelligent systems that drive business innovation and solve complex real-world challenges through cutting-edge AI technologies.
 
 ## 🚀 Professional Experience
 
-### Senior Software Developer | TechCorp Solutions
-**Jan 2022 - Present | Toronto, ON**
+### AI & LLM-Focused Cloud DevOps Architect | ALIANDO
+**Mar 2023 - Present | Noida, Uttar Pradesh, India**
 
 #### Key Responsibilities:
-- Lead development of enterprise-scale web applications serving 100K+ users
-- Architected microservices infrastructure reducing system latency by 40%
-- Mentored junior developers and conducted code reviews ensuring high code quality
-- Implemented CI/CD pipelines improving deployment efficiency by 60%
+• Lead enterprise AI/ML infrastructure architecture serving Fortune 500 clients
+• Design and implement Azure OpenAI and GenAI solutions for business automation
+• Architect MLOps pipelines reducing model deployment time by 70%
+• Mentor cross-functional teams on AI/ML best practices and cloud-native architectures
+• Drive digital transformation initiatives leveraging LLMs and generative AI technologies
 
-### Full Stack Developer | Innovation Labs
-**Jun 2020 - Dec 2021 | Toronto, ON**
-
-#### Key Responsibilities:
-- Developed and maintained React-based frontend applications with Node.js backends
-- Designed RESTful APIs and integrated third-party services
-- Collaborated with cross-functional teams using Agile methodologies
-- Optimized database queries resulting in 30% performance improvement
-
-### Software Engineer | StartupTech Inc.
-**Mar 2019 - May 2020 | Toronto, ON**
+### Senior Cloud Solutions Architect | The Henson Group
+**Jun 2021 - Feb 2023 | Remote/Noida, India**
 
 #### Key Responsibilities:
-- Built responsive web applications using modern JavaScript frameworks
-- Implemented automated testing suites with 90%+ code coverage
-- Participated in product planning and technical architecture decisions
-- Contributed to open-source projects and company technical blog
+• Designed multi-cloud architectures across AWS, Azure, and GCP platforms
+• Implemented DevOps practices improving deployment efficiency by 65%
+• Led cloud migration projects for enterprise clients with zero downtime
+• Developed infrastructure-as-code solutions using Terraform and ARM templates
+
+### DevOps Engineer | Zebra Technologies
+**Jan 2020 - May 2021 | Bangalore, India**
+
+#### Key Responsibilities:
+• Built and maintained CI/CD pipelines for mobile and IoT applications
+• Implemented containerization strategies using Docker and Kubernetes
+• Optimized system performance resulting in 40% cost reduction
+• Collaborated with development teams using Agile methodologies
+
+### Cloud Engineer | Maven Wave Partners
+**Aug 2018 - Dec 2019 | Hyderabad, India**
+
+#### Key Responsibilities:
+• Developed cloud-native applications on AWS and Azure platforms
+• Implemented monitoring and logging solutions using ELK stack
+• Participated in technical architecture and solution design decisions
+• Contributed to cloud migration strategies and best practices documentation
+
+### Systems Engineer | Targus Technologies
+**Jun 2017 - Jul 2018 | Mumbai, India**
+
+#### Key Responsibilities:
+• Built and maintained enterprise infrastructure systems
+• Implemented automated testing and deployment processes
+• Provided technical support and system optimization solutions
+• Contributed to system security and compliance initiatives
 
 ## 🎓 Education & Certifications
 
-### Master of Computer Science
-**University of Toronto | 2017 - 2019**
-- **Specialization:** Software Engineering and Distributed Systems
-- **Thesis:** "Scalable Microservices Architecture for Cloud Applications"
-- **GPA:** 3.8/4.0
-
-### Bachelor of Technology in Computer Science
-**Indian Institute of Technology | 2013 - 2017**
-- **Graduation:** Magna Cum Laude
-- **Relevant Coursework:** Data Structures, Algorithms, Database Systems, Software Engineering
+### Bachelor of Technology in Computer Science and Engineering
+**Jawaharlal Nehru Technological University | 2013 - 2017**
+• Specialization: Software Engineering and Cloud Computing
+• Final Project: "Scalable Cloud Infrastructure for Enterprise Applications"
+• Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Engineering, Network Security
 
 ### Professional Certifications
-- AWS Certified Solutions Architect - Professional (2023)
-- Google Cloud Professional Developer (2022)
-- Microsoft Azure Developer Associate (2021)
-- Certified Kubernetes Administrator (CKA) (2022)
-- Scrum Master Certification (PSM I) (2020)
+• **Microsoft Azure Solutions Architect Expert** (2024)
+• **AWS Certified DevOps Engineer - Professional** (2023)
+• **Google Cloud Professional Cloud Architect** (2023)
+• **Azure AI Engineer Associate** (2024)
+• **Azure DevOps Engineer Expert** (2023)
+• **Certified Kubernetes Administrator (CKA)** (2022)
+• **HashiCorp Terraform Associate** (2022)
+• **Certified ScrumMaster (CSM)** (2021)
 
-## 🎆 Core Competencies
+## 🛠️ Core Competencies
 
-### Technical Expertise
-- **Programming Languages:** Python, Java, JavaScript/TypeScript, C#, Go, SQL
-- **Frontend Technologies:** React, Angular, Vue.js, HTML5, CSS3, SASS, Bootstrap
-- **Backend Technologies:** Node.js, Express.js, Django, Spring Boot, .NET Core
-- **Databases:** PostgreSQL, MongoDB, MySQL, Redis, Elasticsearch
-- **Cloud Platforms:** AWS (EC2, S3, Lambda, RDS), Azure, Google Cloud Platform
-- **DevOps & Tools:** Docker, Kubernetes, Jenkins, GitLab CI/CD, Terraform
-- **Testing:** Jest, Pytest, Selenium, JUnit, Cypress
+### AI/ML & GenAI Technologies
+• **AI/ML Platforms:** Azure OpenAI, OpenAI GPT models, Hugging Face, TensorFlow, PyTorch
+• **MLOps Tools:** Azure Machine Learning, MLflow, Kubeflow, DVC, Weights & Biases
+• **GenAI Applications:** LangChain, Semantic Kernel, Vector Databases, RAG implementations
+• **AI Integration:** API development, model serving, prompt engineering, fine-tuning
+
+### Cloud & DevOps Expertise
+• **Cloud Platforms:** Azure (Expert), AWS (Advanced), Google Cloud Platform
+• **Container Technologies:** Docker, Kubernetes, OpenShift, Azure Container Instances
+• **Infrastructure as Code:** Terraform, ARM Templates, CloudFormation, Bicep
+• **CI/CD Tools:** Azure DevOps, GitHub Actions, Jenkins, GitLab CI/CD
+• **Monitoring:** Azure Monitor, Prometheus, Grafana, ELK Stack, Application Insights
+
+### Programming & Development
+• **Languages:** Python, PowerShell, Bash, C#, JavaScript, YAML, JSON
+• **Frameworks:** FastAPI, Flask, .NET Core, Node.js
+• **Databases:** Azure SQL, CosmosDB, PostgreSQL, MongoDB, Redis
+• **Version Control:** Git, GitHub, Azure Repos, GitLab
 
 ### Professional Skills
-- Software Architecture & System Design
-- Agile Development Methodologies (Scrum, Kanban)
-- Technical Leadership & Team Management
-- Code Review & Quality Assurance
-- Performance Optimization & Scalability
-- Security Best Practices
-- Technical Documentation & Communication
+• **Solution Architecture:** Enterprise system design and cloud architecture patterns
+• **AI Strategy:** GenAI adoption roadmaps and AI governance frameworks
+• **Project Management:** Agile methodologies, technical leadership, stakeholder management
+• **Security:** Cloud security best practices, compliance frameworks, DevSecOps
+• **Communication:** Technical documentation, client presentations, team mentoring
 
 ## 🏆 Key Achievements
 
-- **Innovation Award:** Recognized for developing an AI-powered code review system
-- **Performance Excellence:** Led team that delivered 15 major releases with zero critical bugs
-- **Open Source Contributor:** 500+ contributions across various GitHub projects
-- **Technical Speaker:** Presented at 5 tech conferences on cloud architecture
-- **Mentorship:** Successfully mentored 8 junior developers into senior roles
+• **AI Innovation Leader:** Successfully implemented Azure OpenAI solutions reducing manual processing by 80%
+• **Cloud Migration Expert:** Led 15+ enterprise cloud migrations with 99.9% uptime achievement
+• **Cost Optimization Champion:** Achieved average 45% cost reduction across client cloud infrastructures
+• **Technical Thought Leader:** Published 25+ articles on AI/ML and cloud architecture
+• **Mentorship Excellence:** Guided 12+ junior engineers in cloud and AI technology adoption
+• **Certification Achievement:** Maintained 8 current professional certifications across major cloud platforms
 
-## 🎨 Personal Interests & Values
+## 🎯 Current Focus Areas
 
 ### What Drives Me
-- **Innovation:** Constantly exploring emerging technologies and methodologies
-- **Problem Solving:** Passionate about tackling complex technical challenges
-- **Continuous Learning:** Committed to staying current with industry trends
-- **Collaboration:** Strong believer in teamwork and knowledge sharing
-- **Quality:** Advocating for clean, maintainable, and well-tested code
+• **AI Innovation:** Exploring cutting-edge GenAI applications and LLM implementations
+• **Cloud Excellence:** Architecting scalable, secure, and cost-effective cloud solutions
+• **Continuous Learning:** Staying current with rapidly evolving AI/ML and cloud technologies
+• **Knowledge Sharing:** Contributing to the AI/ML and DevOps community through content and mentoring
+• **Business Impact:** Translating complex AI/ML concepts into tangible business value
 
-### Beyond Code
-- **Open Source Advocacy:** Active contributor to community projects
-- **Tech Meetups:** Regular attendee and speaker at Toronto tech events
-- **Hackathons:** Participated in 10+ hackathons, winning 3 first-place awards
-- **Photography:** Hobby photographer specializing in urban landscapes
-- **Fitness:** Marathon runner and rock climbing enthusiast
+### Current Projects
+• **GenAI Platform:** Building enterprise-ready AI platform using Azure OpenAI
+• **MLOps Framework:** Developing standardized MLOps practices for model lifecycle management
+• **AI Governance:** Implementing responsible AI practices and compliance frameworks
+• **Technical Content:** Creating educational resources on AI/ML and cloud architecture
 
 ## 🌍 Professional Philosophy
 
-> "Great software is not just about writing code—it's about understanding user needs, designing elegant solutions, and building systems that can evolve with changing requirements while maintaining reliability and performance."
+> "The future belongs to organizations that can effectively harness the power of AI and cloud technologies. My mission is to bridge the gap between cutting-edge AI capabilities and practical business solutions, ensuring that technology serves humanity's greatest challenges."
 
 I believe in:
-- **User-Centric Design:** Every line of code should serve the end user
-- **Sustainable Development:** Building maintainable systems for long-term success
-- **Ethical Technology:** Creating responsible and inclusive software solutions
-- **Continuous Improvement:** Embracing feedback and iterating toward excellence
-- **Knowledge Sharing:** Contributing to the growth of the developer community
+• **AI-First Approach:** Leveraging artificial intelligence to enhance human capabilities
+• **Cloud-Native Thinking:** Building scalable, resilient systems from the ground up
+• **Continuous Innovation:** Embracing emerging technologies while maintaining stability
+• **Ethical AI:** Implementing responsible AI practices with transparency and fairness
+• **Knowledge Democracy:** Making complex technologies accessible through education and mentoring
 
 ## 📞 Let's Connect
 
-I'm always excited to discuss new opportunities, collaborate on innovative projects, or connect with fellow developers and technology enthusiasts. Whether you're looking for technical expertise, mentorship, or just want to chat about the latest in tech, I'd love to hear from you!
+I'm passionate about discussing AI/ML innovations, cloud architecture challenges, and the future of technology. Whether you're exploring GenAI adoption, planning cloud transformations, or seeking technical expertise, I'd love to connect and share insights!
 
 ### Contact Information
-- 📧 **Email:** [rskotla@outlook.com](mailto:rskotla@outlook.com)
-- 💼 **LinkedIn:** [linkedin.com/in/rskotla](https://linkedin.com/in/rskotla)
-- 💻 **GitHub:** [github.com/rskotla](https://github.com/rskotla)
-- 🌐 **Portfolio:** [rskotla.github.io/rohitkotla33.github.io](https://rskotla.github.io/rohitkotla33.github.io)
-- 📍 **Location:** Toronto, ON, Canada
-- 🕐 **Timezone:** EST (UTC-5)
+• 📧 **Email:** [rskotla@outlook.com](mailto:rskotla@outlook.com)
+• 💼 **LinkedIn:** [linkedin.com/in/rskotla](https://linkedin.com/in/rskotla)
+• 💻 **GitHub:** [github.com/rskotla](https://github.com/rskotla)
+• 🌐 **Portfolio:** [rskotla.github.io/rohitkotla33.github.io](https://rskotla.github.io/rohitkotla33.github.io)
+• 📍 **Location:** Noida, Uttar Pradesh, India
+• 🕐 **Timezone:** IST (UTC+5:30)
 
 ### Open to
-- Full-time software development opportunities
-- Consulting and freelance projects
-- Technical mentorship and code reviews
-- Speaking engagements and tech talks
-- Open source collaboration
-- Networking and coffee chats
+• AI/ML architecture consulting and implementation projects
+• Cloud transformation and DevOps optimization engagements
+• Technical leadership roles in AI-focused organizations
+• Speaking engagements on AI/ML and cloud technologies
+• Collaboration on open-source AI/ML and DevOps projects
+• Mentoring and technical advisory opportunities
 
 ---
-
-*"Code is poetry written in logic. Every function tells a story, every algorithm solves a puzzle, and every system we build has the power to make the world a little bit better."* - Rohit Kotla
+*"In the age of AI, our greatest advantage lies not in competing with machines, but in amplifying human creativity and problem-solving through intelligent automation and thoughtful system design."* - Rohit Kotla

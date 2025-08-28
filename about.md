@@ -4,162 +4,148 @@ title: About Me
 permalink: /about/
 ---
 
-![Rohit Kotla - GitHub Profile](https://avatars.githubusercontent.com/u/rskotla) ![Rohit Kotla - LinkedIn Profile](https://camo.githubusercontent.com/fe391067/9a0cb0f5)
+# About Me
 
-# About Rohit Kotla
+## Rohit Sharma
 
-## 👨‍💻 Professional Summary
+**AI & LLM-Focused Cloud DevOps Architect | GenAI, Azure OpenAI, MLOps | Driving Enterprise Automation, Secure Cloud, & Innovation**
 
-I am an **AI & LLM-Focused Cloud DevOps Architect** specializing in GenAI, Azure OpenAI, and MLOps with extensive expertise in cloud computing, enterprise system architecture, and artificial intelligence solutions. Currently based in **Noida, Uttar Pradesh, India**, I design and implement scalable, intelligent systems that drive business innovation and solve complex real-world challenges through cutting-edge AI technologies.
-
-## 🚀 Professional Experience
-
-### AI & LLM-Focused Cloud DevOps Architect | ALIANDO
-**Mar 2023 - Present | Noida, Uttar Pradesh, India**
-
-#### Key Responsibilities:
-• Lead enterprise AI/ML infrastructure architecture serving Fortune 500 clients
-• Design and implement Azure OpenAI and GenAI solutions for business automation
-• Architect MLOps pipelines reducing model deployment time by 70%
-• Mentor cross-functional teams on AI/ML best practices and cloud-native architectures
-• Drive digital transformation initiatives leveraging LLMs and generative AI technologies
-
-### Senior Cloud Solutions Architect | The Henson Group
-**Jun 2021 - Feb 2023 | Remote/Noida, India**
-
-#### Key Responsibilities:
-• Designed multi-cloud architectures across AWS, Azure, and GCP platforms
-• Implemented DevOps practices improving deployment efficiency by 65%
-• Led cloud migration projects for enterprise clients with zero downtime
-• Developed infrastructure-as-code solutions using Terraform and ARM templates
-
-### DevOps Engineer | Zebra Technologies
-**Jan 2020 - May 2021 | Bangalore, India**
-
-#### Key Responsibilities:
-• Built and maintained CI/CD pipelines for mobile and IoT applications
-• Implemented containerization strategies using Docker and Kubernetes
-• Optimized system performance resulting in 40% cost reduction
-• Collaborated with development teams using Agile methodologies
-
-### Cloud Engineer | Maven Wave Partners
-**Aug 2018 - Dec 2019 | Hyderabad, India**
-
-#### Key Responsibilities:
-• Developed cloud-native applications on AWS and Azure platforms
-• Implemented monitoring and logging solutions using ELK stack
-• Participated in technical architecture and solution design decisions
-• Contributed to cloud migration strategies and best practices documentation
-
-### Systems Engineer | Targus Technologies
-**Jun 2017 - Jul 2018 | Mumbai, India**
-
-#### Key Responsibilities:
-• Built and maintained enterprise infrastructure systems
-• Implemented automated testing and deployment processes
-• Provided technical support and system optimization solutions
-• Contributed to system security and compliance initiatives
-
-## 🎓 Education & Certifications
-
-### Bachelor of Technology in Computer Science and Engineering
-**Jawaharlal Nehru Technological University | 2013 - 2017**
-• Specialization: Software Engineering and Cloud Computing
-• Final Project: "Scalable Cloud Infrastructure for Enterprise Applications"
-• Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Engineering, Network Security
-
-### Professional Certifications
-• **Microsoft Azure Solutions Architect Expert** (2024)
-• **AWS Certified DevOps Engineer - Professional** (2023)
-• **Google Cloud Professional Cloud Architect** (2023)
-• **Azure AI Engineer Associate** (2024)
-• **Azure DevOps Engineer Expert** (2023)
-• **Certified Kubernetes Administrator (CKA)** (2022)
-• **HashiCorp Terraform Associate** (2022)
-• **Certified ScrumMaster (CSM)** (2021)
-
-## 🛠️ Core Competencies
-
-### AI/ML & GenAI Technologies
-• **AI/ML Platforms:** Azure OpenAI, OpenAI GPT models, Hugging Face, TensorFlow, PyTorch
-• **MLOps Tools:** Azure Machine Learning, MLflow, Kubeflow, DVC, Weights & Biases
-• **GenAI Applications:** LangChain, Semantic Kernel, Vector Databases, RAG implementations
-• **AI Integration:** API development, model serving, prompt engineering, fine-tuning
-
-### Cloud & DevOps Expertise
-• **Cloud Platforms:** Azure (Expert), AWS (Advanced), Google Cloud Platform
-• **Container Technologies:** Docker, Kubernetes, OpenShift, Azure Container Instances
-• **Infrastructure as Code:** Terraform, ARM Templates, CloudFormation, Bicep
-• **CI/CD Tools:** Azure DevOps, GitHub Actions, Jenkins, GitLab CI/CD
-• **Monitoring:** Azure Monitor, Prometheus, Grafana, ELK Stack, Application Insights
-
-### Programming & Development
-• **Languages:** Python, PowerShell, Bash, C#, JavaScript, YAML, JSON
-• **Frameworks:** FastAPI, Flask, .NET Core, Node.js
-• **Databases:** Azure SQL, CosmosDB, PostgreSQL, MongoDB, Redis
-• **Version Control:** Git, GitHub, Azure Repos, GitLab
-
-### Professional Skills
-• **Solution Architecture:** Enterprise system design and cloud architecture patterns
-• **AI Strategy:** GenAI adoption roadmaps and AI governance frameworks
-• **Project Management:** Agile methodologies, technical leadership, stakeholder management
-• **Security:** Cloud security best practices, compliance frameworks, DevSecOps
-• **Communication:** Technical documentation, client presentations, team mentoring
-
-## 🏆 Key Achievements
-
-• **AI Innovation Leader:** Successfully implemented Azure OpenAI solutions reducing manual processing by 80%
-• **Cloud Migration Expert:** Led 15+ enterprise cloud migrations with 99.9% uptime achievement
-• **Cost Optimization Champion:** Achieved average 45% cost reduction across client cloud infrastructures
-• **Technical Thought Leader:** Published 25+ articles on AI/ML and cloud architecture
-• **Mentorship Excellence:** Guided 12+ junior engineers in cloud and AI technology adoption
-• **Certification Achievement:** Maintained 8 current professional certifications across major cloud platforms
-
-## 🎯 Current Focus Areas
-
-### What Drives Me
-• **AI Innovation:** Exploring cutting-edge GenAI applications and LLM implementations
-• **Cloud Excellence:** Architecting scalable, secure, and cost-effective cloud solutions
-• **Continuous Learning:** Staying current with rapidly evolving AI/ML and cloud technologies
-• **Knowledge Sharing:** Contributing to the AI/ML and DevOps community through content and mentoring
-• **Business Impact:** Translating complex AI/ML concepts into tangible business value
-
-### Current Projects
-• **GenAI Platform:** Building enterprise-ready AI platform using Azure OpenAI
-• **MLOps Framework:** Developing standardized MLOps practices for model lifecycle management
-• **AI Governance:** Implementing responsible AI practices and compliance frameworks
-• **Technical Content:** Creating educational resources on AI/ML and cloud architecture
-
-## 🌍 Professional Philosophy
-
-> "The future belongs to organizations that can effectively harness the power of AI and cloud technologies. My mission is to bridge the gap between cutting-edge AI capabilities and practical business solutions, ensuring that technology serves humanity's greatest challenges."
-
-I believe in:
-• **AI-First Approach:** Leveraging artificial intelligence to enhance human capabilities
-• **Cloud-Native Thinking:** Building scalable, resilient systems from the ground up
-• **Continuous Innovation:** Embracing emerging technologies while maintaining stability
-• **Ethical AI:** Implementing responsible AI practices with transparency and fairness
-• **Knowledge Democracy:** Making complex technologies accessible through education and mentoring
-
-## 📞 Let's Connect
-
-I'm passionate about discussing AI/ML innovations, cloud architecture challenges, and the future of technology. Whether you're exploring GenAI adoption, planning cloud transformations, or seeking technical expertise, I'd love to connect and share insights!
-
-### Contact Information
-• 📧 **Email:** [rskotla@outlook.com](mailto:rskotla@outlook.com)
-• 💼 **LinkedIn:** [linkedin.com/in/rskotla](https://linkedin.com/in/rskotla)
-• 💻 **GitHub:** [github.com/rskotla](https://github.com/rskotla)
-• 🌐 **Portfolio:** [rskotla.github.io/rohitkotla33.github.io](https://rskotla.github.io/rohitkotla33.github.io)
-• 📍 **Location:** Noida, Uttar Pradesh, India
-• 🕐 **Timezone:** IST (UTC+5:30)
-
-### Open to
-• AI/ML architecture consulting and implementation projects
-• Cloud transformation and DevOps optimization engagements
-• Technical leadership roles in AI-focused organizations
-• Speaking engagements on AI/ML and cloud technologies
-• Collaboration on open-source AI/ML and DevOps projects
-• Mentoring and technical advisory opportunities
+📍 **Location:** Noida, Uttar Pradesh, India  
+📧 **Email:** rohitkotla33@gmail.com  
+📱 **Phone:** +91 8375056715  
+🔗 **LinkedIn:** [linkedin.com/in/rskotla](https://www.linkedin.com/in/rskotla)  
 
 ---
-*"In the age of AI, our greatest advantage lies not in competing with machines, but in amplifying human creativity and problem-solving through intelligent automation and thoughtful system design."* - Rohit Kotla
+
+## Professional Summary
+
+🚀 Senior Cloud DevOps Engineer | Azure AI & LLM Solutions Architect 🚀
+
+I design, build, and automate next-generation cloud and DevOps platforms—empowering organizations to leverage the full potential of AI, Large Language Models (LLMs), and intelligent automation at scale. With 10+ years of experience and 4x Azure certifications (including AI Engineer & Architect), I specialize in integrating advanced AI workflows and LLM-driven solutions into secure, high-availability enterprise environments.
+
+### What I Do Best:
+• Architect GenAI/LLM-powered application platforms in Azure and multi-cloud  
+• Spearhead MLOps, CI/CD, and Infrastructure-as-Code (Terraform, Terragrunt)  
+• Deploy, govern, and optimize Azure OpenAI, ChatGPT, Copilot, and AI API workflows  
+• Bridge DevOps and DataOps to enable seamless ML pipeline lifecycle management  
+• Automate cloud security, monitoring, and compliance with Python, Bash, and PowerShell  
+
+### Successful Impact:
+• Delivered 99.9% uptime with AI-driven monitoring, auto-remediation, and forecasting  
+• Cut deployment time by 40% via end-to-end automation and modular DevOps design  
+• Enabled business transformation by operationalizing LLMs and GenAI tools for rapid innovation  
+
+---
+
+## Professional Experience
+
+### **Azure Architect** | ALIANDO
+**Jul 2025 to Present · 2 mos** | Noida, Uttar Pradesh, India
+
+• Architect and deploy comprehensive GenAI and LLM-powered applications on Azure, integrating cutting-edge AI technologies including Azure OpenAI, ChatGPT, and Copilot services to drive enterprise-scale intelligent automation  
+• Design and implement Azure AI-driven DevOps solutions, leveraging MLOps pipelines and DataOps frameworks to streamline AI model lifecycle management and accelerate time-to-market for AI solutions  
+• Lead multi-cloud automation initiatives across Azure, AWS, and GCP, implementing Infrastructure-as-Code with Terraform and Terragrunt to achieve seamless cross-platform deployment and management  
+• Deliver exceptional operational excellence with 99.9% uptime through AI-powered monitoring, predictive analytics, and automated remediation systems that proactively identify and resolve infrastructure issues  
+• Optimize CI/CD pipelines with advanced Azure DevOps implementations, reducing deployment cycles by 45% while maintaining zero-downtime deployments and automated rollback capabilities  
+• Implement robust security frameworks and compliance automation, ensuring enterprise-grade data protection, identity management, and regulatory adherence across all AI and cloud infrastructure components  
+• Spearhead cost optimization strategies that reduced cloud operational expenses by 30% while scaling AI workloads and maintaining high-performance, reliable service delivery  
+
+### **Cloud Architect** | The Henson Group
+**Aug 2022 to Jul 2025 · 3 yrs** | New York, United States · Remote
+
+• Architected intelligent, scalable, and secure multi-cloud platforms with Azure focus; enabled AI/ML services, automation, and digital transformation for enterprise clients  
+• Led CI/CD and DevOps automation across Azure, AWS, and GCP using Terraform and Terragrunt (Infra-as-Code); reduced deployment cycles by 45% and achieved 99.9% uptime  
+• Implemented enterprise MLOps pipelines for automated model lifecycle (Azure ML, CI/CD), empowering faster and reliable AI deployment  
+• Deployed AI-powered monitoring and analytics (Azure Monitor, Grafana, Nagios), decreasing incident response time by 50% and maintaining high availability  
+• Spearheaded automation frameworks using Azure DevOps, Python, and PowerShell—eliminated manual processes and reduced operational overhead by 40%  
+• Managed cost optimization programs resulting in 30%+ cloud expense reduction, $2M+ savings, and measurable business value for global clients  
+• Championed cross-functional collaboration, release management, and cloud security compliance; provided expert support for IAM, Jira, Git, Jenkins, Docker  
+
+### **Senior Cloud DevOps Engineer** | Zebra Technologies
+**Mar 2020 to Jul 2022 · 2 yrs 5 mos** | Bayan Lepas, Penang, Malaysia
+
+• Operated in the enterprise data capture and automation industry, supporting Zebra's barcode/RFID solutions, data capture, and intelligent automation platforms  
+• Led DevOps initiatives to automate cloud operations, improving deployment efficiency and system stability across AWS, Azure, and GCP  
+• Architected and implemented CI/CD pipelines (Jenkins, Git, Maven), reducing deployment cycles by 35% while maintaining 99.5% system reliability  
+• Delivered operational excellence with robust monitoring and onboarding for cloud applications, ensuring seamless integrations and minimal downtime  
+
+### **Cloud Infrastructure Specialist** | Maven Wave Partners
+**Jun 2019 to Dec 2019 · 7 mos** | Gurgaon, India · On-site
+
+• Partnered with Software Architects to design and implement cloud solutions, ensuring timely delivery for enterprise clients  
+• Architected and delivered scalable cloud infrastructure across GCP, AWS, and Azure, enabling seamless cloud migration and transformation for enterprise customers  
+• Led cloud transformation initiatives for Fortune 500 companies in healthcare, financial services, and retail, achieving a 40% reduction in infrastructure costs  
+• Designed and implemented automated CI/CD pipelines and infrastructure-as-code solutions, improving deployment efficiency and system reliability  
+• Collaborated on cloud-native applications and microservices architectures—advancing digital transformation  
+• Conducted technical assessments and strategic planning for multi-cloud environments, delivering robust solutions aligned with business goals  
+• Developed and maintained critical infrastructure components, enhancing system stability and production performance  
+
+### **Senior Cloud DevOps Engineer** | Targus Technologies Pvt Ltd.
+**Jun 2017 to Jun 2019 · 2 yrs 1 mo** | Gurgaon, India
+
+• Led DevOps automation at Targus Technologies (IT infrastructure & cloud services), driving enterprise cloud transformation for 50+ clients  
+• Architected and optimized multi-cloud environments (AWS, Azure, GCP), delivering a 40% performance improvement and 30% cost reduction  
+• Spearheaded CI/CD pipeline automation with Jenkins, Git, Maven; reduced deployment cycles by 70%, increased reliability by 95%  
+• Implemented Infrastructure as Code (IaC) and config management, ensuring 99.9% uptime and eliminating manual errors  
+• Led cross-functional DevOps teams enabling digital transformation and operational cost optimization (25%+)  
+• Mentored junior engineers on cloud and DevOps best practices—building organizational strength and a culture of improvement  
+
+---
+
+## Education
+
+### **Master of Computer Applications (MCA)** | Subharti University
+**Computer Science** | **2018 - 2020**
+
+---
+
+## Certifications
+
+• **Microsoft Certified: Azure Solutions Architect Expert** (Aug 2023 - Aug 2025)  
+  Credential ID: 4DD62F7120B6511D
+
+• **Microsoft Certified: Azure AI Engineer Associate** (Jul 2024 - Jul 2025)  
+  Credential ID: DBC68A0170E33535
+
+• **Microsoft Certified: DevOps Engineer Expert** (Jul 2023 - Jul 2025)  
+  Credential ID: 36C9F37D8B9D5197
+
+• **Microsoft Certified: Azure Administrator Associate** (Mar 2023 - Mar 2024)
+
+---
+
+## Core Skills
+
+**Cloud Platforms:** Azure, AWS, GCP  
+**DevOps & Automation:** Jenkins, Git, Docker, Kubernetes, Terraform, Terragrunt, Ansible  
+**Programming Languages:** Python, PowerShell, Bash  
+**AI & ML Technologies:** Azure OpenAI, ChatGPT, Azure ML, MLOps, GenAI  
+**Monitoring & Analytics:** Azure Monitor, Grafana, Nagios  
+**CI/CD:** Azure DevOps, Jenkins, Maven, Git  
+**Infrastructure as Code:** Terraform, Terragrunt, ARM Templates  
+**Security & Compliance:** IAM, Identity Management, Cloud Security  
+**Databases & Storage:** SQL, NoSQL, Azure Storage, S3  
+**Collaboration Tools:** Jira, Teams, Slack  
+
+---
+
+## Languages
+
+• **English:** Full professional proficiency  
+• **Hindi:** Native or bilingual proficiency  
+
+---
+
+## Let's Connect
+
+If you're seeking:
+• An architect who can translate AI/LLM vision into cloud reality  
+• A DevOps leader with deep hands-on Azure, MLOps, and GenAI implementation  
+• A true partner in scaling modern cloud, AI automation, and platform engineering  
+
+Driven by curiosity. Inspired by what's possible with AI. Ready to shape the future of work with you.
+
+**Contact me:**  
+📧 rohitkotla33@gmail.com  
+📱 +91 8375056715  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/rskotla)

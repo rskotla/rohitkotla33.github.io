@@ -1,0 +1,46 @@
+# Jekyll Configuration for Professional Portfolio
+title: Rohit Kotla
+email: rskotla@outlook.com
+description: >
+  Professional Software Developer Portfolio - Showcasing expertise in
+  software development, cloud technologies, and innovative solutions.
+baseurl: ""
+url: "https://rskotla.github.io/rohitkotla33.github.io"
+
+# Theme Configuration
+theme: minima
+
+# Social Media Links
+github_username: rskotla
+linkedin_username: rskotla
+
+# Navigation
+header_pages:
+  - about.md
+  - skills.md
+  - experience.md
+  - education.md
+  - projects.md
+  - certifications.md
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
